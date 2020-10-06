@@ -4,7 +4,7 @@
  * Description: The adding machine program will perform add and 
  * subtract operations of integers from a variable and calculate 
  * the total. It can print the operations by calling toString 
- * method and print the result by calling getTotal method.
+ * method and get the result by calling getTotal method.
  * 
  * @author Siyuan Zhou
  * @date 10/5/2020
